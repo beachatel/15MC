@@ -1,0 +1,44 @@
+#container {
+    display: flex;
+    align-items: flex-start;
+   
+   
+}
+
+#15MC{
+    font-size: 80px;
+}
+
+
+#sideBar{
+    padding-left: 2vh;
+    color: #e06f8e;
+    font-size: 50px;
+    width: 30vh;
+    background-color: #000000;
+    font-family: "menco", sans-serif;
+        font-weight: 500;
+        font-style: normal;
+
+        border-color: #e06f8e;
+        border-right: #e06f8e;
+        border-top: #e06f8e;
+            border-style: double;
+            min-height: 100vh;
+            max-height: 100vh;
+
+}
+
+body{
+   background-color: #000000;
+}
+
+
+
+#map{
+   
+    margin: 50px;
+    top: 5vh;
+    height: 80vh;
+    width: 80vw;
+}
