@@ -8,18 +8,36 @@
 #mc{
     font-size: 4vw;
     text-align: center;
-    
+    border: solid;
 
 }
 
 #about{
+    margin-top: 10vh;
     background-color: #e06f8e;
     color: #000000;
     font-size: 2vw;
     border-radius: 10px;
+    padding-top: 1vh;
+        padding-bottom: 1vh;
+}
+
+
+
+#data {
+    margin-top: 2vh;
+        background-color: #e06f8e;
+            color: #000000;
+            font-size: 2vw;
+            border-radius: 10px;
+            padding-top: 1vh;
+                padding-bottom: 1vh;
 }
 
 #donate {
+    margin-top: 2vh;
+    padding-top: 1vh;
+    padding-bottom: 1vh;
     background-color: #e06f8e;
     color: #000000;
     font-size: 2vw;
